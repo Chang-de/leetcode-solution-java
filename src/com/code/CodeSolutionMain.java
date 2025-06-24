@@ -1,12 +1,11 @@
 package com.code;
 
 import com.code.core.Solution;
-import com.code.core.solution.AsteroidCollision;
-import com.code.core.solution.BinaryTreeLevelOrderTraversal;
+import com.code.core.solution.*;
 
 public class CodeSolutionMain {
     public static void main(String[] args) {
-        Solution solution = new BinaryTreeLevelOrderTraversal();
+        Solution solution = new Permutation();
         System.out.println(solution.solve(solution.input()));
     }
 }
