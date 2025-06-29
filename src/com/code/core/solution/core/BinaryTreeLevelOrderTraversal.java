@@ -1,4 +1,4 @@
-package com.code.core.solution;
+package com.code.core.solution.core;
 
 import com.code.core.Solution;
 import com.code.core.model.TreeNode;
